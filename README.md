@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-saini-507b012a0">
+    <img src="https://github.com/gaurav9258646/gaurav9258646/blob/main/banner.jpg" alt="Gaurav Banner" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Gaurav Saini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
