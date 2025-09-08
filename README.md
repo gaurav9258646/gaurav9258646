@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-saini-507b012a0">
-    <img src="https://github.com/gaurav9258646/gaurav9258646/blob/main/banner.jpg" alt="Gaurav Banner" />
+    <img src="https://github.com/gaurav9258646/gaurav9258646/blob/main/Black Modern Vlogger YouTube Banner.png" alt="Gaurav Banner" />
   </a>
 </p>
 
