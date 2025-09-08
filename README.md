@@ -38,3 +38,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav9258646&show_icons=true&locale=en&layout=compact" alt="gaurav9258646" /></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=emoji&size=30&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=😀+😎+🚀+🎨+🐛+🔨+✨" alt="Gitmoji Animation" />
+</p>
